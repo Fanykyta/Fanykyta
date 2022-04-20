@@ -1,0 +1,5 @@
+- 👋 Oi, eu sou @Fanykyta
+- 👀 Estou interessado em desenvolvimento web fullstack, games e diversas coisas geek.
+- 🌱 Atualmente estou aprendendo react, .net, java(infelizmente) 
+- ✨ tenho conhecimento em diversas tecnologias entre elas Html5, CSS, JS, Jquery, Asp Classic, Api Rest, C#, SQL, MySQL, MVC, Asp.Net,Bootstrap, Materialize.
+- 📫 Para falar comigo pode me mandar email em sthefany.bottcher@hotmail.com
